@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Pashupatinath Temple",
+        "latitude": 27.7104,
+        "longitude": 85.3488,
+        "entry_fee": 100,
+        "open_time": "06:00",
+        "close_time": "18:00",
+        "tags": ["culture", "religious"]
+    },
+    {
+        "name": "Swayambhunath Stupa",
+        "latitude": 27.7149,
+        "longitude": 85.2906,
+        "entry_fee": 200,
+        "open_time": "07:00",
+        "close_time": "17:00",
+        "tags": ["culture", "heritage"]
+    },
+    {
+        "name": "Garden of Dreams",
+        "latitude": 27.7125,
+        "longitude": 85.3170,
+        "entry_fee": 150,
+        "open_time": "09:00",
+        "close_time": "21:00",
+        "tags": ["nature", "relaxation"]
+    },
+    {
+        "name": "Chandragiri Hills",
+        "latitude": 27.6616,
+        "longitude": 85.2458,
+        "entry_fee": 700,
+        "open_time": "09:00",
+        "close_time": "17:00",
+        "tags": ["nature", "adventure"]
+    },
+    {
+        "name": "Kathmandu Durbar Square",
+        "latitude": 27.7048,
+        "longitude": 85.3076,
+        "entry_fee": 100,
+        "open_time": "10:00",
+        "close_time": "17:00",
+        "tags": ["culture", "heritage"]
+    }
+]
